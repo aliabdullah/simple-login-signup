@@ -1,0 +1,23 @@
+{
+  "name": "simple-login-signup",
+  "version": "0.0.0",
+  "description": "",
+  "main": "mongodb.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aliabdullah/simple-login-signup.git"
+  },
+  "author": "Ali Abdallah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aliabdullah/simple-login-signup/issues"
+  },
+  "homepage": "https://github.com/aliabdullah/simple-login-signup",
+  "dependencies":
+  { 
+    "mongoose":"3.8.15"
+  }
+}
